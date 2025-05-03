@@ -24,18 +24,13 @@ If you share similar interests or want to connect, feel free to reach out!
 
 <table align="center">
   <tr>
-    <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FstudyintheUKatUWTSD%2F&psig=AOvVaw01s8RZO1pHaSy7seyh_EXn&ust=1746386119032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDU9LSBiI0DFQAAAAAdAAAAABAE" /></td>
+    <td><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FstudyintheUKatUWTSD%2F&psig=AOvVaw01s8RZO1pHaSy7seyh_EXn&ust=1746386119032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDU9LSBiI0DFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uwtsd.ac.uk%2Fcurrent-students&psig=AOvVaw01s8RZO1pHaSy7seyh_EXn&ust=1746386119032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDU9LSBiI0DFQAAAAAdAAAAABAJ)" /></td>
     <td><strong>BSc University of Wales Trinity Saint David</strong><br>UWTSD • 2024</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/ORACLE-CERTIFICATION-red?style=for-the-badge" /></td>
-    <td><strong>Java Foundations 1Z0-811 Certification</strong><br>Oracle University • September 2024</td>
+    <td><strong> University of Westminsters </strong><br> •</td>
   </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/ISTITUTO%20VOLTA-DIPLOMA-blue?style=for-the-badge" /></td>
-    <td><strong>Oracle Java Programmer Diploma (90/100)</strong><br>Istituto Volta • March–July 2024</td>
-  </tr>
-</table>
 
 
 
