@@ -24,8 +24,8 @@ If you share similar interests or want to connect, feel free to reach out!
 
 <table align="center">
   <tr>
-    <td><img src="https://img.shields.io/badge/BOOLEAN-COURSE-green?style=for-the-badge" /></td>
-    <td><strong>Full-Stack Web Developer Course</strong><br>BOOLEAN • 2024</td>
+    <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FstudyintheUKatUWTSD%2F&psig=AOvVaw01s8RZO1pHaSy7seyh_EXn&ust=1746386119032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDU9LSBiI0DFQAAAAAdAAAAABAE" /></td>
+    <td><strong>BSc University of Wales Trinity Saint David</strong><br>UWTSD • 2024</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/ORACLE-CERTIFICATION-red?style=for-the-badge" /></td>
