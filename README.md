@@ -28,7 +28,7 @@ If you share similar interests or want to connect, feel free to reach out!
     <td><strong>BSc University of Wales Trinity Saint David</strong><br>UWTSD • 2024</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/ORACLE-CERTIFICATION-red?style=for-the-badge" /></td>
+    <td><img src="" /></td>
     <td><strong> University of Westminsters </strong><br> •</td>
   </tr>
 </table>
