@@ -84,11 +84,11 @@ If you share similar interests or want to connect, feel free to reach out!
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Federico-Gelati&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Federico-Gelati&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Gelati&layout=compact&theme=radical" />
 </p>
 
 
