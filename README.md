@@ -31,7 +31,7 @@ If you share similar interests or want to connect, feel free to reach out!
     <td><img src="https://img.shields.io/badge/ORACLE-CERTIFICATION-red?style=for-the-badge" /></td>
     <td><strong> University of Westminsters </strong><br> •</td>
   </tr>
-<br>
+</table>
 
 
 <br>
