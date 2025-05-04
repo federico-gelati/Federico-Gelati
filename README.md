@@ -24,12 +24,12 @@ If you share similar interests or want to connect, feel free to reach out!
 
 <table align="center">
   <tr>
-    <td><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FstudyintheUKatUWTSD%2F&psig=AOvVaw01s8RZO1pHaSy7seyh_EXn&ust=1746386119032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDU9LSBiI0DFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uwtsd.ac.uk%2Fcurrent-students&psig=AOvVaw01s8RZO1pHaSy7seyh_EXn&ust=1746386119032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDU9LSBiI0DFQAAAAAdAAAAABAJ)" /></td>
-    <td><strong>BSc University of Wales Trinity Saint David</strong><br>UWTSD • 2024</td>
+    <td><img src="https://tukuz.com/wp-content/uploads/2021/06/university-of-wales-trinity-saint-david-logo-vector.png" width="120" /></td>
+    <td><strong>BSc University of Wales Trinity Saint David  UWTSD</strong><br> 2024 • First Class Honours</td>
   </tr>
   <tr>
-    <td><img src="" /></td>
-    <td><strong> University of Westminsters </strong><br> •</td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7LD_OHHwaVS_jNLo3DNSdyboio5zY2kkSQ&s" width="120" /></td>
+    <td><strong> University of Westminsters </strong><br> in progress • Dec 2025 </td>
   </tr>
 </table>
 
@@ -97,13 +97,13 @@ If you share similar interests or want to connect, feel free to reach out!
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:federico.gelati@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/federico-gelati-bb56a0252">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Federico-Gelati">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
