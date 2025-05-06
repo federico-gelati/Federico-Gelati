@@ -1,5 +1,13 @@
 <h1 align="center">👋 Hi there, I'm Federico!</h1>
 
+<div align="center">
+  Look how many times my profile has been visited:
+  <br/>
+  
+  <br/>   <img src="https://profile-counter.glitch.me/federico-gelati/count.svg" alt="Numero di visite al profilo di Federico Gelati" style="vertical-align: middle;" />
+</div>
+
+
 <p align="center">
 Welcome to my GitHub profile! 🚀 <br>
 I love turning ideas into code and building secure, useful, and creative digital solutions. <br>
